@@ -1,0 +1,132 @@
+
+* {
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    background-image: url("../img/5072311.png");
+    background-size: cover;
+}
+
+.scroll {
+    background-color:  rgba(150, 0, 255, 0.64);
+    height: 50px;
+    width: 100%;
+    margin: 0px;
+}
+
+#miNombre {
+    position: relative;
+    top: 15px;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    position: relative;
+    top: 7px;
+    left: 65px;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+h2 {
+    position:relative;
+    color: white;
+    font-weight: bold;
+    top: 20px;
+    font-size: 55px;
+    margin: 0px 285px;
+    text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.575);
+}
+
+#Carrera {
+    background: #09064D;
+    position: relative;
+    top:70px;
+    width: 482px;
+    height: 45px;
+}
+
+#Materias {
+    background:  rgba(150, 0, 255, 0.64); 
+    position: relative;
+    top:102px;
+    width: 562px;
+    height: 299px;
+    left: 652px;
+    box-shadow: rgba(0, 0, 0, 0.507) 4px 3px 2px;
+}
+
+.materia1 {
+    background:  #09064D;
+    position: relative;
+    width: 500px;
+    top: 20px;
+    left: 15px;
+    font-size: 35px;
+}
+
+.materia2 {
+    background:  #09064D;
+    position: relative;
+    width: 500px;
+    top: 25px;
+    left: 15px;
+    font-size: 35px;
+}
+.materia3 {
+    background:  #09064D;
+    position: relative;
+    width: 500px;
+    top: 30px;
+    left: 15px;
+    font-size: 35px;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+
+h3 {
+    color: white;
+    margin: 0px 15px;
+}
+
+#circulo {
+    position: relative;
+    height:310px;
+    width:310px;
+    bottom: 200px;
+    background:#795DDB;
+    border-radius: 50%; /* siempre en porcentaje para q mantenga el circulo*/
+    left: 125px;
+}
+
+img{
+    position: relative;
+    width: 300px;
+    height: 300px;
+    top: 5px;
+    left: 5px;
+}
+
+#pie {
+    background:  rgba(150, 0, 255, 0.64);
+    height:50px;
+    line-height:50px;
+    color:white;
+    text-align:center;
+    left:0;
+    width:100%;
+    margin: 0px;
+}
+
+footer p {
+    position: relative;
+    top: 2px;
+    font-weight: bold;
+}
