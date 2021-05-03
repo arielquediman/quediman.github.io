@@ -220,6 +220,10 @@ footer ul {
 
 @media (max-width:450px){
     /* Celular */
+    .bg-header {
+        height: 100vh;
+    }
+    
     #card-section>div{
         flex-direction: column;
     }
