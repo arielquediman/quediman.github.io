@@ -222,6 +222,7 @@ footer ul {
     /* Celular */
     .bg-header {
         height: 100vh;
+        font-size: 32px;
     }
     
     #card-section>div{
