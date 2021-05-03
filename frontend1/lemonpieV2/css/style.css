@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+body{
+    color: black;
+    font-family: 'Courgette', cursive,'Inter', sans-serif;
+    font-size: 16px;
+}
+
+.logo {
+    display: block;
+    margin:auto;
+}
+
+h1{
+    font-size: 70px;
+    position: relative;
+    bottom: 60px; 
+    left: 355px;
+    text-shadow: 1px 3px rgb(0, 0, 0);
+}
+
+.description-slide {
+    text-align: center;
+    font-size: 16px;
+    position: relative;
+    bottom: 100px;
+    text-shadow: rgb(0, 0, 0);
+}
+
+.banner {
+    background-image: url("../img/lemon-pie2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+    height: 323px;
+    color: white;
+    margin: 3px;
+}
+
+.fa-shopping-basket {
+    color: #212529;
+}
+
+.fa-birthday-cake {
+    color:#212529;
+}
+
+li {
+    font-family: 'Inter', sans-serif;
+}
+
+.listas {
+    position: relative;
+    left: 35px;
+}
+
+.titulo-subrayado {
+    text-decoration: underline;
+}
